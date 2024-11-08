@@ -1,0 +1,87 @@
+body{
+    background-image:url('https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:d2906a58-a278-499a-af13-93a44e50f404?format=webp');
+    background-size:cover;
+}
+.navbar{
+    border:solid white;
+    background-color:black;
+    display:flex;
+    height:64px;
+
+}
+.imageContainer{
+    border:solid grey;
+    /* height:44px; */
+    margin:1em;
+}
+.episodeContainer{
+    border:solid navy;
+    height:44px;
+    margin:1em;
+}
+.iconContainer{
+    /* border:solid lime; */
+    display:flex;
+    justify-content: space-between;
+    width:30%;
+    margin:10px;
+}
+.btnContainer{
+    /* border:solid orange; */
+    width:70%;
+
+    margin:10px;
+}
+.sidebar{
+    height:100%;
+}
+.logo{
+    height:100%;
+}
+.mtvLogin{
+    width:100px;
+    font-size:15px;
+    border-radius:12px;
+    margin-top:12px;
+    background-color: yellow;
+    color:black;
+    font-family:Atial;
+    margin-left:65%;
+
+}
+.mtv{
+    width:100%;
+}
+
+.episodeContainer{
+    color: white;
+    display: inline-block;
+    height: 60px;
+}
+
+.watchfullepisodecontainer{
+    width:30%;    
+    font-size:4px;
+    border-radius:12px;
+    margin-top:1%;
+    background-color: black;
+    color:black;
+    font-family:Atial;
+    margin-left:1%;
+
+}
+.css-18m75w7 {
+    box-sizing: border-box;
+    font: normal 700 1.4rem / 1.5 "Gravity", sans-serif;
+    text-transform: none;
+    color: #F3F3F3;
+    margin-top: 4px;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    overflow: hidden;
+}
+.middlebannercontainer {
+    width:100%;
+    display:flex;
+}

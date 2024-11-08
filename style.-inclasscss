@@ -1,0 +1,31 @@
+.navbar{
+    border:solid black;
+    height:44px;
+    margin:1mm;
+}
+.imagecontainer{
+    height:44px;
+    border:solid grey;
+    display: flex;
+    margin:1mm;
+}
+.episodecontainer{
+    height:44px;
+    border:solid navy;
+    margin:1mm;
+}
+
+.iconcontainer{
+    border:solid lime;
+    width:30%;
+    margin:70px;
+    <img src="" alt="" class="sidebar" />
+    
+
+}
+
+.btnoncontainer{
+    border:solid orange;
+    width:70%;
+    margin:10px;
+}
